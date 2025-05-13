@@ -3,7 +3,7 @@ title: "HadaCore: Tensor Core Accelerated Hadamard Transform Kernel"
 collection: projects
 permalink: /projects/hadacore
 excerpt: ''
-date: 2024-12-02
+date: 2024-12-12
 paperurl: 'https://arxiv.org/abs/2412.08832'
 authors: 'Krish Agarwal, Rishi Astra, Adnan Hoque, Mudhakar Srivatsa, Raghu Ganti, Less Wright, Sijia Chen'
 ---

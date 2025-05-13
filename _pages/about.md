@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergrad Turing Scholar at UT Austin, graduating in May 2025. I'm working with [Dr. Peter Stone](https://www.cs.utexas.edu/~pstone/).
+I'm an incoming PhD student (starting Fall 2025) in [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University, where I'm fortunate to be advised by [Dr. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/). My research interests lie at the intersection of machine learning (ML) and systems, including efficient implementations of existing ML algorithms for current hardware and the design of new algorithms/implementations that address hardware limitations by nature.
 
-Research interests: I am interested in the intersection of systems and machine learning (ML). Specifically, I aim to write efficient implementations of existing ML algorithms for current hardware and design new algorithms/implementations that address hardware limitations by nature.
+I completed my undergrad in CS at UT Austin, where I worked with [Dr. Peter Stone](https://www.cs.utexas.edu/~pstone/) on integrating classical planning with large language models for long-term planning in service robots.
 
 Highlights:
-- [Summer 2024] Interned at IBM Research at Yorktown Heights. We published some of our work to the [PyTorch blog](https://pytorch.org/blog/hadacore/)! More detail on this work [here](http://krishagarwal.github.io/projects/hadacore).
+- [May 2024] I graduated from my undergrad at UT Austin, having successfully defended my [undergrad honors thesis](https://krishagarwal.github.io/projects/hadamard_fourier_masked_attn)!
+- [Summer 2024] Interned at IBM Research at Yorktown Heights. We published some of our work to the [PyTorch blog](https://pytorch.org/blog/hadacore/)! More detail on this work [here](https://krishagarwal.github.io/projects/hadacore).
