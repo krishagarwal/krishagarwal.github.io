@@ -3,7 +3,7 @@ title: "L3M+P: Lifelong Planning with Large Language Models"
 collection: projects
 permalink: /projects/l3mp
 excerpt: ''
-date: 2025-03-06
+date: 2025-08-03
 paperurl: 'https://arxiv.org/abs/2508.01917'
 authors: 'Krish Agarwal, Yuqian Jiang, Jiaheng Hu, Bo Liu, Peter Stone'
 ---
