@@ -13,5 +13,6 @@ I'm an incoming PhD student (starting Fall 2025) in [InfiniAI Lab](https://www.i
 I completed my undergrad in CS at UT Austin, where I worked with [Dr. Peter Stone](https://www.cs.utexas.edu/~pstone/) on integrating classical planning with large language models for long-term planning in service robots.
 
 Highlights:
-- [May 2024] I graduated from my undergrad at UT Austin, having successfully defended my [undergrad honors thesis](https://krishagarwal.github.io/projects/hadamard_fourier_masked_attn)!
+- [June 2025] [L3M+P](https://krishagarwal.github.io/projects/l3mp) accepted to IROS 2025!
+- [May 2025] I graduated from my undergrad at UT Austin, having successfully defended my [undergrad honors thesis](https://krishagarwal.github.io/projects/hadamard_fourier_masked_attn)!
 - [Summer 2024] Interned at IBM Research at Yorktown Heights. We published some of our work to the [PyTorch blog](https://pytorch.org/blog/hadacore/)! More detail on this work [here](https://krishagarwal.github.io/projects/hadacore).
