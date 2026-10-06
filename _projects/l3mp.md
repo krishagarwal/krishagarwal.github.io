@@ -2,11 +2,13 @@
 title: "L3M+P: Lifelong Planning with Large Language Models"
 collection: projects
 permalink: /projects/l3mp
-excerpt: ''
+excerpt: 'IROS 2025'
 date: 2025-08-03
 paperurl: 'https://arxiv.org/abs/2508.01917'
-authors: 'Krish Agarwal, Yuqian Jiang, Jiaheng Hu, Bo Liu, Peter Stone'
+authors: 'Krish Agarwal*, Yuqian Jiang*, Jiaheng Hu, Bo Liu, Peter Stone (*equal contribution)'
 ---
+
+*IROS 2025*
 
 [Paper](https://arxiv.org/abs/2508.01917) |
 [Code](https://github.com/krishagarwal/l3m-p)

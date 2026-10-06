@@ -2,11 +2,13 @@
 title: "Tensor Core Accelerated Kernels for Hadamard and Fourier Masked Attention"
 collection: projects
 permalink: /projects/hadamard_fourier_masked_attn
-excerpt: ''
+excerpt: 'Undergraduate Honors Thesis, UT Austin, 2025'
 date: 2025-05-06
 paperurl: 'https://apps.cs.utexas.edu/apps/tech-reports/206107'
 authors: 'Krish Agarwal'
 ---
+
+*Undergraduate Honors Thesis, UT Austin, 2025. Advised by [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/).*
 
 [Thesis](https://apps.cs.utexas.edu/apps/tech-reports/206107) |
 [Code](https://github.com/krishagarwal/hadamard-fourier-masked-attn)

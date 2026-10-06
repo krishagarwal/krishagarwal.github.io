@@ -2,11 +2,13 @@
 title: "MonarchRT: Efficient Attention for Real-Time Video Generation"
 collection: projects
 permalink: /projects/monarchrt
-excerpt: ''
-date: 2026-12-02
+excerpt: 'NeurIPS 2026'
+date: 2026-02-12
 paperurl: 'https://arxiv.org/abs/2602.12271'
-authors: 'Krish Agarwal, Zhuoming Chen, Cheng Luo, Yongqi Chen, Haizhong Zheng, Xun Huang, Atri Rudra, Beidi Chen1'
+authors: 'Krish Agarwal, Zhuoming Chen, Cheng Luo, Yongqi Chen, Haizhong Zheng, Xun Huang, Atri Rudra, Beidi Chen'
 ---
+
+*NeurIPS 2026*
 
 [Paper](https://arxiv.org/abs/2602.12271) |
 [Blog](https://infini-ai-lab.github.io/MonarchRT) |
