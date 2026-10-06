@@ -1,0 +1,17 @@
+# Co-author names in the publication list link to these pages.
+# Keys are lowercase last names; firstname lists the spellings used in the .bib file.
+"chen":
+  - firstname: ["Beidi", "B."]
+    url: https://www.andrew.cmu.edu/user/beidic/
+
+"huang":
+  - firstname: ["Xun", "X."]
+    url: https://www.xunhuang.me/
+
+"rudra":
+  - firstname: ["Atri", "A."]
+    url: https://cse.buffalo.edu/faculty/atri/
+
+"stone":
+  - firstname: ["Peter", "P."]
+    url: https://www.cs.utexas.edu/~pstone/

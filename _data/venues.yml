@@ -1,0 +1,3 @@
+# Publication badges: the "abbr" field of each BibTeX entry is looked up here.
+"NeurIPS":
+  url: https://neurips.cc/Conferences/2026

@@ -1,0 +1,9 @@
+# Social links shown at the bottom of the about page, in this order.
+# Supported keys: https://github.com/george-gca/jekyll-socials
+cv_pdf: /files/krishagarwal.pdf
+email: krisha2@andrew.cmu.edu
+scholar_userid: 5t-wcckAAAAJ
+github_username: krishagarwal
+linkedin_username: krishagarwal
+x_username: wonderingkrish
+bluesky_url: https://bsky.app/profile/krishagarwal.bsky.social
