@@ -21,6 +21,6 @@ latest_posts:
   enabled: false
 ---
 
-I'm a second-year PhD student in [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University, where I'm fortunate to be advised by [Dr. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/). My research is on efficient ML systems, spanning structured and sparse attention, GPU kernels, serving, and infrastructure for AI agents. Recently, I've been working on real-time video generation and on efficiently serving real-time multimodal applications.
+I'm a second-year PhD student in [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University, where I'm fortunate to be advised by [Prof. Beidi Chen](https://www.andrew.cmu.edu/user/beidic/). My research is on efficient ML systems, spanning structured and sparse attention, GPU kernels, serving, and infrastructure for AI agents.
 
 I completed my undergrad in CS at UT Austin as a Turing Scholar, where I wrote my honors thesis on Tensor Core kernels for structured masked attention with [Dr. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) and worked with [Dr. Peter Stone](https://www.cs.utexas.edu/~pstone/) on LLM-based planning for service robots. I've also interned at NVIDIA and IBM Research.
