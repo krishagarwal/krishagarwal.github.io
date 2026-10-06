@@ -30,7 +30,7 @@ Then open <http://localhost:4000>.
 
 ## Deployment
 
-Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the site and publishes it to the `gh-pages` branch that GitHub Pages serves. Never edit `gh-pages` directly.
+Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the site and deploys it directly to GitHub Pages (repository Settings → Pages → Source: **GitHub Actions**). GitHub's built-in "Deploy from a branch" builder can't load al-folio's plugins, so the site must be built by this workflow. Pull requests run the build without deploying.
 
 ## Changes from the al-folio starter
 

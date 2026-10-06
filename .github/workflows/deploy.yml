@@ -58,10 +58,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+
+# One deployment at a time; let an in-progress deployment finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -101,8 +106,24 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
+      - name: Upload site 📤
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: actions/upload-pages-artifact@v5
         with:
-          folder: _site
+          path: _site
+
+  # Publishes the built site directly to GitHub Pages (Settings -> Pages -> Source: GitHub Actions).
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from this workflow
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy 🚀
+        id: deployment
+        uses: actions/deploy-pages@v5
